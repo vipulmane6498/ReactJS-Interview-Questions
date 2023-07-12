@@ -4,7 +4,7 @@
 ---
 
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/vipulmane6498/JavaScript-Interview-Questions) for core javascript questions.
 
 ### Table of Contents
 
